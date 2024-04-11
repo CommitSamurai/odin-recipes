@@ -1,4 +1,4 @@
 # odin-recipes
 A website with interesting recipes.
 
-This is a simple HTML website linking to a few recipes outside of it. I used images to help the user decide if they want to check out the recipes they've never heard of. I've also separated the different types of foods (sweets, pastries, breakfast) into different webpages, to facilitate search.
+This is a simple HTML website containing some of my favorite recipes. I used images to help the user decide visualize the final product. I've also separated the different types of foods (sweets, pastries, breakfasts) into different webpages, to increase organization.
